@@ -1,6 +1,5 @@
 body {
     color: blue;
-
     text-align: left;
     font-family: Franklin Gothic Medium;
     font-size: 19px;
@@ -37,4 +36,11 @@ body {
 
 #post {
     padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
