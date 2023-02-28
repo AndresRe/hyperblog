@@ -5,4 +5,10 @@ un blog hecho gracias a platzi
 en este curso se aprendio de todo
 * hola
 *Hecho poe andres
+<<<<<<< HEAD
+=======
+*incluye una serie de ejemplos 
+*Aprendiendo cada dia mas
+
+>>>>>>> readme-mejorado
 
