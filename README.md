@@ -6,4 +6,6 @@ en este curso se aprendio de todo
 * hola
 *Hecho poe andres
 *incluye una serie de ejemplos 
+*Aprendiendo cada dia mas
+
 
