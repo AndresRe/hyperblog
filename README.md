@@ -5,4 +5,5 @@ un blog hecho gracias a platzi
 en este curso se aprendio de todo
 * hola
 *Hecho poe andres
+*incluye una serie de ejemplos 
 
